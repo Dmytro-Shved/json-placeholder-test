@@ -1,1 +1,1 @@
-Test external API using [JSON Placeholer API](https://jsonplaceholder.typicode.com/)
+Laravel API test [JSON Placeholer API](https://jsonplaceholder.typicode.com/)
